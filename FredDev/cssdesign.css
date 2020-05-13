@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+	max-width: 1920px
+}
+header{
+	background-color: #DF4D2A;
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+header h1{
+	font-family: Helvetica, Arial, sans-serif;
+	color: white;
+	font-size: 50px;
+}
+header p{
+	font-size: 30px;
+	color: white;
+	font-family: Helvetica, Arial, sans-serif;
+}
+header a{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	color: white;
+}
+header img{
+	border-radius: 80px;
+	width: 140px;
+	height: 140px;
+	border: 10px solid rgb(255, 255, 255);
+}
+main h2, h3{
+	color: #DF4D2A;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 40px;
+}
+main{
+	text-align: center;
+}
+main p, a{
+	color: #DF4D2A;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 25px;
+}
+footer {
+	font-family: Helvetica, Arial, sans-serif;
+	color: white;
+	font-size: 15px;
+	background-color: #DF4D2A;
+	text-align: center;
+}
+footer a{
+	font-family: Helvetica, Arial, sans-serif;
+	color: white;
+	font-size: 15px;
+}
